@@ -1,7 +1,7 @@
 # CS-studies
 These are the main areas software engineers should prepare to succeed in an interview at Google:
 
-* Algorithm Complexity: You need to know Big-O. If you struggle with basic big-O complexity analysis, you will struggle in interviews. Run some practice problems, and review the Big-O Cheat Sheet!
+* Algorithm Complexity: You need to know Big-O. If you struggle with basic big-O complexity analysis, you will struggle in interviews. Run some practice problems, and review the [Big-O Cheat Sheet](http://bigocheatsheet.com/)!
 
 * Sorting: Know how to sort. Don't do bubble-sort. You should know the details of at least one n*log(n) sorting algorithm, preferably two (say, quicksort and merge sort). Merge sort can be highly useful in situations where quicksort is impractical, so take a look at it.
 
